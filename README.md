@@ -1,24 +1,26 @@
 ## Introduction
 
 
-<b>Discipline | <b>Fill your discipline name here
+<b>Discipline | <b>Biotechnology and Biomedical engineering
 :--|:--|
-<b> Lab | <b> Fill your lab name here
-<b> Experiment|     <b> Fill your experiment name and number here
+<b> Lab | <b>  Biosignal Processing and Analysis Lab 
+<b> Experiment|     <b> Point processes and models
 
 ### About the Experiment 
 
-Fill a brief description of this experiment here
+"The experiment "Time-Frequency Analysis of Bio-signals" introduces methods to analyze non-stationary biomedical signals, such as ECG or EEG, using time-frequency techniques like the Short-Time Fourier Transform (STFT) and Wavelet Transform. This helps visualize how signal frequency content evolves over time, providing deeper insights into physiological processes and abnormalities."
 
-<b>Name of Developer | <b> Fill the name of experiment owner here 
+<b>Name of Developer | <b> Dr. Shyam Diwakar 
 :--|:--|
-<b> Institute | <b>  
-<b> Email id|     <b>  
-<b> Department |  
+<b> Institute | <b>  Amrita Vishwa Vidyapeetham
+<b> Email id|     <b> shyam@amrita.edu 
+<b> Department |  <b> Amrita Mind Brain Center
 
 ### Contributors List
 
 SrNo | Name | Faculty or Student | Department| Institute | Email id
 :--|:--|:--|:--|:--|:--|
-1 | . | . | . | . | .
-2 | . | . | . | . | .
+1 | Joshy Alphonse | Student | Amrita School of Biotechnology | Amrita Vishwa Vidyapeetham | joshya@am.amrita.edu
+2 | Dr. Asha Vijayan | Faculty | Amrita School of Biotechnology | Amrita Vishwa Vidyapeetham | ashavijayan@am.amrita.edu
+3 | Rakhi Radhamani | Research Assistant | Amrita Virtual Labs | Amrita Vishwa Vidyapeetham | rakhir@am.amrita.edu
+4 | Dhanush Kumar | Research Assistant | Amrita Virtual Labs | Amrita Vishwa Vidyapeetham | dhanushkumar@am.amrita.edu
