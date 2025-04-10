@@ -8,7 +8,8 @@
 
 ### About the Experiment 
 
-"The experiment "Time-Frequency Analysis of Bio-signals" introduces methods to analyze non-stationary biomedical signals, such as ECG or EEG, using time-frequency techniques like the Short-Time Fourier Transform (STFT) and Wavelet Transform. This helps visualize how signal frequency content evolves over time, providing deeper insights into physiological processes and abnormalities."
+The "Point Processes and Models" experiment introduces learners to stochastic models used to represent random events distributed in time or space. It focuses on fundamental concepts like the Poisson process and its variants, enabling users to simulate and analyze real-world phenomena such as neuron spike trains, traffic flow, or communication signals. This experiment helps build intuition about the probabilistic structure and behavior of point processes through interactive visualizations and hands-on simulations.
+
 
 <b>Name of Developer | <b> Dr. Shyam Diwakar 
 :--|:--|
